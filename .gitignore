@@ -1,7 +1,8 @@
 # ignoring large files
 
 data/**
-
+exploration/**
+analysis/**
 refs/**
 
 # but keeping script files
