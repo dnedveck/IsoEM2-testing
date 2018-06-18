@@ -1,0 +1,8 @@
+# ignoring large files
+
+data/**
+
+refs/**
+
+# but keeping script files
+!*.sh
